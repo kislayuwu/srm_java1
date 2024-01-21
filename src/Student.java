@@ -15,12 +15,11 @@ class Student {
                 '}';
     }
 
-    Student(String n, String d,int r, int p){
+  /*  Student(String n, String d,int r, int p){
        this. name=n;
         this.regNo=r;
         this.dept=d;
         this.phNo=p;
-    }
-
+    }*/
 }
 
